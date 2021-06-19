@@ -1,3 +1,4 @@
+# Binary Search
 Binary search is an algorithm; its input is a sorted list of elements. If the element is in that list, binary search returns the position where it's located. Otherwise binary search  returns null. 
 
 ## **How does Binary search work?**
