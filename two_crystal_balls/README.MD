@@ -1,8 +1,7 @@
 # TWO CRYSTAL BALL PROBLEM
 
-// Given two crystal balls that will break if dropped from high enough
-// distance, determine the exact spot in which it will break in the most
-// optimized way.
+- Given two crystal balls that will break if dropped from high enough distance,
+- determine the exact spot in which it will break in the most optimized way.
 
 This can be achieved by jumping $\sqrt{N}$ instead of a N or $1/2{N}$
 
